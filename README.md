@@ -1,2 +1,5 @@
 # dotfiles
-A repo that holds my linux/macos dotfiles and scripts for configuring my setup
+
+This is a repo that holds my dotfiles and other configs for my linux setup.
+
+
